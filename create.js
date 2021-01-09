@@ -24,7 +24,7 @@ function createTable() {
     const con = mysql.createConnection({
         host:   'localhost.localdomain', //接続先ホスト
         user     : 'root',      //ユーザー名
-        password : 'Ken!chiiwa0807',          //パスワード
+        password : '×××',          //パスワード
         database: "mydb"
     });
       

@@ -1,4 +1,4 @@
-# createdb
+# Node.js createdb
 create table、create database 作成関数。
 
 mysql-server構築手順書
